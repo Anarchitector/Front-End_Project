@@ -2,7 +2,7 @@ header > h1 {
     margin-bottom: 0;
 }
 
-.oreshek {
+#oreshek {
     display: flex;
     justify-content: center;
 }
@@ -10,4 +10,8 @@ header > h1 {
 #footer {
     display: flex;
     justify-content: space-around;
+}
+
+.d4-content {
+    background-color: blueviolet;
 }
