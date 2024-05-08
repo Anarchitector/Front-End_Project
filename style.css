@@ -13,6 +13,12 @@ header > h1 {
 }
 
 #footer {
+    position: sticky;
     display: flex;
     justify-content: space-around;
+	padding: .5em;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
 }
