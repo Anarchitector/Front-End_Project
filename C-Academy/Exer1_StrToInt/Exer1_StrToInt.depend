@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1593040413 source:c:\users\igor\google Диск\projects\computaris\exer1_strtoint\main.cpp
+	<iostream>
+	<string>
+	"stdlib.h"
+	"stdio.h"
+
+1593072990 source:c:\users\Игорь\google Диск\projects\computaris\exer1_strtoint\main.cpp
+	<iostream>
+

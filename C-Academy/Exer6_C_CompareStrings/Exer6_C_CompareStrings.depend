@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594235508 source:c:\users\igor\google Диск\projects\computaris\exer6_c_comparestrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stdbool.h"
+	<string.h>
+
