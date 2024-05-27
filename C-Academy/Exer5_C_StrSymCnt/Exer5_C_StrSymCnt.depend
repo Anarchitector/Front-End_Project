@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1594124680 source:c:\users\igor\google Диск\projects\computaris\exer5_c_strsymcnt\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	"stdbool.h"
-

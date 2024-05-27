@@ -1,2 +1,0 @@
-| Student Code |  First Name  |   Last Name   | Age |
-| 0001         | John         | Carmack       | 51  |
